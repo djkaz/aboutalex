@@ -1,0 +1,17 @@
+/*
+ * Custom CSS
+ */
+
+ :root {
+    --bs-body-bg: var(--bs-gray-100);
+  }
+
+  .intro img {
+    width: 20%;
+    border-radius: 50%;
+  }
+
+  .about > p{
+      text-align: justify;
+      text-justify: inter-word;
+  }
